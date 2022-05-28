@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Quang, from Vietnam
+- 🌱 I’m currently learning Embedded C
+- 👀 I’m very happy to learn and share knowledge with everyone.
+--->
+--->
